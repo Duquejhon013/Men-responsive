@@ -1,0 +1,7 @@
+LISTADO DE REQUISITOS
+
+Llamada con el cliente del 19 de octubre de 2029
+
+-Corregir desborde en la página de inicio.
+-Cambiar fondo a todo sitio a obscuro.
+-Aumentar el tamaño de la fuente.

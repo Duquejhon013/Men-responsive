@@ -1,0 +1,43 @@
+body{
+    font-family: 'Great Vibes', cursive;
+    margin: 0;
+ 
+}
+a{
+    text-decoration: none;
+    color:brown;
+}
+header{
+    display: flex;
+    height: 205px;
+    min-height: 70px;
+    background-color:black;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+
+}
+.logo img{
+    height: 180px;
+    margin-right: 25px;
+
+}
+nav a{
+    font-weight: 600;
+    padding-right: 20px;
+}
+nav a:hover{
+    color:purple;
+}
+@media(Max-width:700px){
+    header{
+        flex-direction: column;
+    }
+    nav{
+        padding: 10px 0px;
+    }
+}
